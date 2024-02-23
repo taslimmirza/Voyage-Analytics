@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to revolutionize travel experiences through the integration of machine learning and data analytics. By utilizing datasets on users, flights, and hotels, we develop sophisticated machine learning models to enhance travel-related decision-making and master the art of MLOps. It also uses version control to ensure that the development
+This project aims to revolutionize travel experiences through the integration of machine learning and data analytics. By utilizing datasets on users, flights, and hotels, we develop sophisticated machine learning models to enhance travel-related decision-making and master the art of MLOps. It also uses version control to ensure that the development is logged and can be reviewed
 
 ### Objectives
 
