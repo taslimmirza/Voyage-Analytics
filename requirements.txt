@@ -1,0 +1,10 @@
+flask
+joblib
+numpy
+pandas
+scikit-learn
+streamlit
+mlflow
+airflow
+kubernetes
+docker

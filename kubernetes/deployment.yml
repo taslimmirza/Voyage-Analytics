@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: flight-price-prediction
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: flight-price
+  template:
+    metadata:
+      labels:
+        app: flight-price
+    spec:
+      containers:
+      - name: flight-price-prediction
+        image: flight-price-prediction:latest
+        ports:
+        - containerPort: 80
