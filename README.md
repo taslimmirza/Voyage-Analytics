@@ -76,3 +76,6 @@ Detailed setup instructions for running the Flask API, Streamlit web application
 - **Containerization and Deployment**: Check the `docker` and `kubernetes` directories for deployment guides.
 - **Workflow Automation**: The `airflow` directory contains DAGs for automating ML workflows.
 - **Model Tracking**: Instructions for using MLFlow for model versioning are in the `mlflow` directory.
+
+## Contact
+Github: https://github.com/taslimmirza/Voyage-Analytics
